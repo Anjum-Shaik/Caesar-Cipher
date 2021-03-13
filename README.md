@@ -1,6 +1,6 @@
 # Caesar-Cipher
-Caesar Cipher
-Cryptography is one of the important branches one should learn to get good at cyber security. A lot of concepts like encryption and decryption, ciphers, hashes etc. are to be learnt. Let's start with Caesar Cipher.
+Caesar Cipher............
+Cryptography is one of the important branches one should learn to get good at cyber security. A lot of concepts like encryption and decryption, ciphers, hashes etc. are to be learnt. Let's start with Caesar Cipher...................
 Caesar cipher is an olden cipher which is not in use anymore because it's not secure and pretty easy to crack.
 It just substitutes every letter of the message with a letter at an offset of a number called 'key'.
 Example: Let message be 'Anjum Shaik' and key is 5.
